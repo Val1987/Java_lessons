@@ -45,8 +45,6 @@ public class HomeWork2 {
         int[][] taskArray5 = new int[3][3];
         taskFifth(taskArray5);
 
-
-
     }
 
 
