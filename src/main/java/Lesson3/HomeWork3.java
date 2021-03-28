@@ -79,19 +79,6 @@ public class HomeWork3 {
     }
 
     public static boolean checkWin(char player) {
-        /*
-        if (map[0][0] == player && map[0][1] == player && map[0][2] == player) return true;
-        if (map[1][0] == player && map[1][1] == player && map[1][2] == player) return true;
-        if (map[2][0] == player && map[2][1] == player && map[2][2] == player) return true;
-
-        if (map[0][0] == player && map[1][0] == player && map[2][0] == player) return true;
-        if (map[0][1] == player && map[1][1] == player && map[2][1] == player) return true;
-        if (map[0][2] == player && map[1][2] == player && map[2][2] == player) return true;
-
-        if (map[0][0] == player && map[1][1] == player && map[2][2] == player) return true;
-        if (map[2][2] == player && map[1][1] == player && map[0][0] == player) return true;
-        return false;
-        */
         return checkDiag(player) || checkLine(player);
     }
 
