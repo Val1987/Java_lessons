@@ -1,5 +1,7 @@
 package lesson7;
 
+// Tigashov VE
+
 import javax.swing.*;
 import java.awt.*;
 
