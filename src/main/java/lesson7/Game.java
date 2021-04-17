@@ -1,6 +1,6 @@
 package lesson7;
 
-// Tigashov Valeriy Evgen'evich
+
 
 public class Game {
 
