@@ -1,5 +1,7 @@
 package lesson7;
 
+// Tigashov Valeriy Evgen'evich
+
 import javax.swing.*;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;

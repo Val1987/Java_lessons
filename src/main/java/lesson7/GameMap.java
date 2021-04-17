@@ -1,5 +1,7 @@
 package lesson7;
 
+// Tigashov Valeriy Evgen'evich
+
 import javax.swing.*;
 import java.awt.*;
 
