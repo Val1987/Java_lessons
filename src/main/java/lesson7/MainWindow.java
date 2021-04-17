@@ -7,9 +7,9 @@ import java.awt.event.ActionListener;
 
 public class MainWindow extends JFrame {
 
-    private final int WIN_WIDTH= 600;
-    private final int WIN_HEIGHT = 600;
-    private final int WIN_POS_X = 700;
+    private final int WIN_WIDTH = 500;
+    private final int WIN_HEIGHT = 555;
+    private final int WIN_POS_X = 600;
     private final int WIN_POS_Y = 250;
 
     private Settings settingsWin;

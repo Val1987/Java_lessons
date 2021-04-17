@@ -101,12 +101,12 @@ public class Settings extends JFrame {
             @Override
             public void actionPerformed(ActionEvent e) {
                 collectUserSettings();
-                mainWindow.remove(mainWindow.gameMap);
-                mainWindow.gameMap = new GameMap(mapSize, mapSize);
-                mainWindow.add(mainWindow.gameMap);
-                mainWindow.invalidate();
-                mainWindow.validate();
-                mainWindow.repaint();
+//                mainWindow.remove(mainWindow.gameMap);
+//                mainWindow.gameMap = new GameMap(mapSize, mapSize);
+//                mainWindow.add(mainWindow.gameMap);
+//                mainWindow.invalidate();
+//                mainWindow.validate();
+//                mainWindow.repaint();
             }
         });
 
